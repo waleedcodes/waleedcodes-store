@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.f8518dd6.css",
-    "main.js": "/static/js/main.18da8f29.js",
+    "main.css": "/static/css/main.2c2f59d6.css",
+    "main.js": "/static/js/main.db0cd1fe.js",
     "static/js/787.34115356.chunk.js": "/static/js/787.34115356.chunk.js",
     "static/media/asus-zenbook-desktop-2022-09-26-12-33-24-3339.png": "/static/media/asus-zenbook-desktop-2022-09-26-12-33-24-3339.bc7121e44e8b1f00e0da.png",
     "static/media/mi-laptop-pro-2022-09-26-01-22-47-3531.png": "/static/media/mi-laptop-pro-2022-09-26-01-22-47-3531.984e5aa947da3ea4fea3.png",
@@ -39,12 +39,12 @@
     "static/media/blog5.jpg": "/static/media/blog5.04d42263004825421b31.jpg",
     "static/media/sec4_1.jpg": "/static/media/sec4_1.74c7f115776e323bddb7.jpg",
     "index.html": "/index.html",
-    "main.f8518dd6.css.map": "/static/css/main.f8518dd6.css.map",
-    "main.18da8f29.js.map": "/static/js/main.18da8f29.js.map",
+    "main.2c2f59d6.css.map": "/static/css/main.2c2f59d6.css.map",
+    "main.db0cd1fe.js.map": "/static/js/main.db0cd1fe.js.map",
     "787.34115356.chunk.js.map": "/static/js/787.34115356.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f8518dd6.css",
-    "static/js/main.18da8f29.js"
+    "static/css/main.2c2f59d6.css",
+    "static/js/main.db0cd1fe.js"
   ]
 }
